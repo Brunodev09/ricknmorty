@@ -1,6 +1,6 @@
 {
   "name": "ricknmortyquotes",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Returns a string with a random and funny quote from the best TV show ever aired.",
   "main": "app.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "rick"
   ],
   "author": "brunoDev",
-  "license": "ISC",
+  "license": "Apache 2.0",
   "dependencies": {
     "random-number-in-range": "^1.0.2"
   }
